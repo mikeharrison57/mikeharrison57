@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Michael J. Harrison</h1>
-<h3 align="center">A current Front End Web Developer at Turing School of Software and Design.</h3>
+<h1 align="center">Michael J. Harrison</h1>
+<h3 align="center">Front End Web Developer at Turing School of Software and Design</h3>
 
 ## About Me
 
-- Hello! My name is Michael Harrison. I'm a current Front End software developer at Turing School of Software and Design. Throughout my time at Turing I've been able to develop many applications using JavaScript (ES6), HTML, CSS, Mocha/Chai, etc. I'm currently learning how to develop appplications using React, and testing with Cypress. I have a passion for education, and strive to work in a techinal education role. This will allow me to the opportunity to develop software that is more accessible, inviting, and user friendly for students, teachers, and administrators of all backgrounds appeals to me greatly. I look forward to all of the projects I will make for user's domestically and internationally. 
-
-- 🌱 I’m currently learning: **React and Cypress**
+- My name is Michael Harrison. I'm a current Front End software developer at Turing School of Software and Design. Throughout my time at Turing I've been able to develop many applications using JavaScript (ES6), HTML, CSS, Mocha/Chai, etc. I'm currently developing appplications using React, and testing with Cypress. I have a passion for education, and strive to work in a techinal education role. This will allow me to the opportunity to develop software that is more accessible, inviting, and user friendly for students, teachers, and administrators of all backgrounds appeals to me greatly. I look forward to all of the projects I will make for user's domestically and internationally. 
 
 - 👨‍💻 All of my projects are available here: [https://github.com/mikeharrison57](https://github.com/mikeharrison57)
 
-- 💬 Ask me about: **JavaScript (ES6), HTML, CSS, Chai, Mocha, and Webpack**
+- 💬 Ask me about: **JavaScript (ES6), HTML, CSS, Chai, Mocha, React, Cypress, and Webpack**
 
 - 📫 How to reach me: **mikeharri789@gmail.com**
 
