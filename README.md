@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is Michael Harrison. I'm a Front End Software Engineer at Turing School of Software and Design. Throughout my time at Turing I've been able to develop many applications using JavaScript (ES6), HTML, CSS, Mocha/Chai, etc. I'm currently developing appplications using React, and testing with Cypress. My most recent application leveraged the Apollo Client state management library in conjunction with GraphQL.  
+My name is Michael Harrison. I'm a Front End Software Engineer at Turing School of Software and Design. Throughout my time at Turing I've been able to develop many applications using JavaScript (ES6), HTML, CSS, Mocha/Chai, etc. I'm currently developing applications using React, and testing with Cypress. My most recent application leveraged the Apollo Client state management library in conjunction with GraphQL.  
 
 I have a passion for education, and strive to work in a techinal education role. This will allow me to the opportunity to develop software that is more accessible, inviting, and user friendly for students, teachers, and administrators of all backgrounds. I look forward to all of the projects I will develop and contribute to for users presenlty and in the future. 
 
