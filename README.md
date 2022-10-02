@@ -1,5 +1,5 @@
 <h1 align="center">Michael J. Harrison</h1>
-<h3 align="center">Front End Software Engineer at Turing School of Software and Design</h3>
+<h3 align="center">Front End Software Engineer and Turing School of Software and Design Graduate</h3>
 
 ## About Me
 
