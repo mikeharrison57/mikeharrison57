@@ -44,6 +44,4 @@ I have a passion for software, and strive to work in a techinal education or cli
 
 ## Statistics
 
-![stats2 michael](https://github-readme-stats.vercel.app/api?username=mikeharrison57&show_icons=true&theme=noctis_minimus)
-
 ![stats michael](https://github-readme-stats.vercel.app/api/top-langs?username=mikeharrison57&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
